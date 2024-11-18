@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Sidera.Utilities.KeywordParsing")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Sidera Enterprises")]
 [assembly: AssemblyProduct("Sidera.Utilities.KeywordParsing")]
-[assembly: AssemblyCopyright("Copyright ©  2024")]
+[assembly: AssemblyCopyright("Copyright © 2024 Sidera Enterprises. All rights reserved.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -29,5 +29,4 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.*")]
