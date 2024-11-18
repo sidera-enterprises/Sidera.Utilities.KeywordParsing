@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sidera.Utilities.KeywordParsing", "Sidera.Utilities.KeywordParsing\Sidera.Utilities.KeywordParsing.csproj", "{6B2B748B-A2FE-4EC7-87B9-5DD42F52F491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sidera.Utilities.KeywordParsing.UnitTest", "Sidera.Utilities.KeywordParsing.UnitTest\Sidera.Utilities.KeywordParsing.UnitTest.csproj", "{73DD8BD4-097D-4890-B3DC-2E77C2739DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B2B748B-A2FE-4EC7-87B9-5DD42F52F491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2B748B-A2FE-4EC7-87B9-5DD42F52F491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2B748B-A2FE-4EC7-87B9-5DD42F52F491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2B748B-A2FE-4EC7-87B9-5DD42F52F491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73DD8BD4-097D-4890-B3DC-2E77C2739DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DD8BD4-097D-4890-B3DC-2E77C2739DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DD8BD4-097D-4890-B3DC-2E77C2739DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DD8BD4-097D-4890-B3DC-2E77C2739DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84FFD4CE-01CA-41BE-897C-096D112F8534}
+	EndGlobalSection
+EndGlobal
